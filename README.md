@@ -3,7 +3,9 @@ Azure Kinect SDK Kurulumu ve Python ile Görüntü Alımı
 
 Requirements:
 open3d==0.13.0
+
 python = 3.6, 3.7, 3.8
+
 numpy,cv
 
 Config dosyası kamera parametreleri için düzenlenmelidir ve open3d ile okunmalıdır.
